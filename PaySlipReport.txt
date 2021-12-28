@@ -1,0 +1,21 @@
+Payslip and details of employe number 1 is:
+Employee Number: 1101
+Employee Name: Justin Trudeau
+EMployee Type: Faculty
+Level of education: Master's
+Gross Salary: 8000.0
+Deductions: 1394.2
+Net Salary: 6605.8
+----------End of employee 1 details------
+Payslip and details of employe number 2 is:
+Employee Number: 3020
+Employee Name: Doug Ford
+EMployee Type: Faculty
+Gross Salary: 17500.0
+Deductions: 3783.0
+Net Salary: 13717.0
+----------End of employee 2 details------
+Total Number of employees: 2
+Total Number of faculty: 1
+Total Number of non faculty workers: 1
+****************************************END****************************************
